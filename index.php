@@ -223,7 +223,7 @@ Portfolio Section Start
       </div> -->
         <div class="col-lg-12">
           <div class="text-center">
-            <a class="btn-lines dark light wow fadeInUp animated btn btn-default btn-green hvr-bounce-to-right" href="service.html" target="_blank">Read More</a>
+            <a class="btn-lines dark light wow fadeInUp animated btn btn-default btn-green hvr-bounce-to-right" href="service.php" target="_blank">Read More</a>
           </div>
         </div>
       </div>

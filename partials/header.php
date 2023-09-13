@@ -28,7 +28,7 @@
                             <li class="nav-item">
                                 <a class="nav-link" href="#feature">Service</a>
                             </li>
-                            <li class="nav-item dropdown">
+                            <!-- <li class="nav-item dropdown">
                                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true"
                                     aria-expanded="false">
                                     Pages
@@ -49,7 +49,7 @@
                                     <a class="dropdown-item" href="blog-left-sidebar.html">Blog Left sidebar</a>
                                     <a class="dropdown-item" href="blog-right-sidebar.html">Blog Right sidebar</a>
                                 </div>
-                            </li>
+                            </li> -->
                             <li class="nav-item">
                                 <a class="nav-link" href="contact.html">Contact</a>
                             </li>
