@@ -91,7 +91,7 @@
             consectetur adipisicing elit. Dolore, ea!
           </p>
           <div class="contact-form">
-            <form id="contact-form" method="#" action="#" role="form">
+            <form id="contact-form" method="POST" action="forms/send_mail.php" role="form" class="php-email-form">
 
               <div class="form-group wow fadeInDown" data-wow-duration="500ms" data-wow-delay=".6s">
                 <input type="text" placeholder="Your Name" class="form-control" name="name" id="name">
@@ -99,6 +99,9 @@
 
               <div class="form-group wow fadeInDown" data-wow-duration="500ms" data-wow-delay=".8s">
                 <input type="email" placeholder="Your Email" class="form-control" name="email" id="email">
+              </div>
+              <div class="form-group wow fadeInDown" data-wow-duration="500ms" data-wow-delay=".8s">
+                <input type="text" placeholder="Your Contact Number" class="form-control" name="contact" id="contact">
               </div>
 
               <div class="form-group wow fadeInDown" data-wow-duration="500ms" data-wow-delay="1s">
@@ -108,13 +111,10 @@
               <div class="form-group wow fadeInDown" data-wow-duration="500ms" data-wow-delay="1.2s">
                 <textarea rows="6" placeholder="Message" class="form-control" name="message" id="message"></textarea>
               </div>
-
-              <div id="success" class="success">
-                Thank you. The Mailman is on His Way :)
-              </div>
-
-              <div id="error" class="error">
-                Sorry, don't know what happened. Try later :(
+              <div class="my-3">
+                <div class="loading">Loading</div>
+                <div class="error-message"></div>
+                <div class="sent-message">Your message has been sent. Thank you!</div>
               </div>
 
               <div id="submit" class="wow fadeInDown" data-wow-duration="500ms" data-wow-delay="1.4s">
@@ -184,4 +184,6 @@
             ==================================================
             Footer Section Start
             ================================================== -->
+            <script src="forms/php-email-form/validate.js"></script>
             <?php include 'partials/footer.php'; ?>
+             
