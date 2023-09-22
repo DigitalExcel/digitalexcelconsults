@@ -22,7 +22,7 @@ $to_email = 'klebcourage@gmail.com, digitalexcelconsults@gmail.com';
 $subject = "Digital Excel: ". strip_tags($_POST['subject']);
 $message = htmlspecialchars("Sender's Name: " . $_POST['name'] . "\r\nSenders Email: " . $from_email . "\r\nSenders Contact: " . $contact. "\r\n\r\n" . $_POST['message']);
 
-$headers = "From: info@digitalexcelconsults.org \r\n";
+$headers = "From: info@digitalexcelconsults.com \r\n";
 $headers .= "Reply-To:".$from_email."\r\n";
 $headers .= "MIME-Version: 1.0 \r\n";
 $headers .= "Content-type: text/plain; charset=utf-8 \r\n";
@@ -32,8 +32,8 @@ echo mail($to_email, $subject, $message, $headers);
 
 //acknowledgement email
 $subject="Digital Excel Acknowledgment";
-$headers = "From: donotreply@digtalexcelconsults \r\n";
-$headers .= "Reply-To:donotreply@digtalexcelconsults\r\n";
+$headers = "From: donotreply@digtalexcelconsults.com \r\n";
+$headers .= "Reply-To:donotreply@digtalexcelconsults.com\r\n";
 $headers .= "MIME-Version: 1.0 \r\n";
 $headers .= "Content-type: text/plain; charset=utf-8 \r\n";
 $headers .= "Bcc:klebcourage@gmail.com, osgun4christ@gmail.com, emiledennis47@gmail.com, klebcourage@yahoo.com, livingseedliberialabors@gmail.com";
