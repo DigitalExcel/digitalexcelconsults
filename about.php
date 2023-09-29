@@ -65,7 +65,7 @@
             <h2>About Company</h2>
             <ol class="breadcrumb list-inline text-center">
               <li class="list-inline-item">
-                <a href="index.html">
+                <a href="index.php">
                   <i class="ion-ios-home"></i>
                   Home &nbsp; &nbsp;/
                 </a>
