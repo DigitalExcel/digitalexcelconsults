@@ -34,6 +34,11 @@ a:hover {
 text-shadow {
   color: var(--excelgreen);
 }
+.hvr-bounce-to-right:before {
+ 
+  background: var(--excelmidpurple);
+
+}
 
 
 h1,
