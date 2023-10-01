@@ -11,4 +11,5 @@ deployment:
     - /bin/cp -R images $DEPLOYPATH
     - /bin/cp -R plugins $DEPLOYPATH
     - /bin/cp -R partials $DEPLOYPATH
+    
     /bin/cp index.php $DEPLOYPATH
