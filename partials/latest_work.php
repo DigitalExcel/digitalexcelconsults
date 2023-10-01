@@ -13,7 +13,7 @@ Latest Work Section Start
       </p>
     </div>
     <div class="row">
-      <div class="col-md-4 col-sm-6">
+      <div class="col-md-6 col-sm-6">
         <figure class="wow fadeInLeft animated portfolio-item" data-wow-duration="500ms" data-wow-delay="0ms">
           <div class="img-wrapper">
             <img src="images/portfolio/lib.png" class="img-fluid" alt="this is a title">
@@ -36,7 +36,7 @@ Latest Work Section Start
           </figcaption>
         </figure>
       </div>
-      <div class="col-md-4 col-sm-6">
+      <div class="col-md-6 col-sm-6">
         <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="300ms">
           <div class="img-wrapper">
             <img src="images/portfolio/sl.png" class="img-fluid" alt="this is a title">
@@ -59,30 +59,51 @@ Latest Work Section Start
           </figcaption>
         </figure>
       </div>
-      <div class="col-md-4 col-sm-6">
+      <div class="col-md-6 col-sm-6">
         <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="300ms">
           <div class="img-wrapper">
-            <img src="images/portfolio/item-3.jpg" class="img-fluid" alt="">
+            <img src="images/portfolio/bs-lib.png" class="img-fluid" alt="">
             <div class="overlay">
               <div class="buttons">
-                <a rel="gallery" class="fancybox" href="images/portfolio/item-3.jpg">Demo</a>
-                <a target="_blank" href="single-portfolio.html">Details</a>
+                <a target="_blank" href="https://liberian.bible/">View</a>
               </div>
             </div>
           </div>
           <figcaption>
             <h4>
-              <a href="#">
-                Table Design
+              <a href=" https://liberian.bible/">
+                  Bible society Liberia
+                </a>
+                </h4>
+                <p>
+                  United Bible Society of Liberia
+                </p>
+                </figcaption>
+        </figure>
+      </div>
+      <div class="col-md-6 col-sm-6">
+        <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="300ms">
+          <div class="img-wrapper">
+            <img src="images/portfolio/priceless.png" class="img-fluid" alt="">
+            <div class="overlay">
+              <div class="buttons">
+                <a target="_blank" href="http://pricelesslib.com/">View</a>
+              </div>
+            </div>
+          </div>
+          <figcaption>
+            <h4>
+              <a href="http://pricelesslib.com/">
+                Pricessless Real Estate Services
               </a>
             </h4>
             <p>
-              Lorem ipsum dolor sit amet.
+              Pricessless Real Estate Services
             </p>
           </figcaption>
         </figure>
       </div>
-      <div class="col-md-4 col-sm-6">
+      <!-- <div class="col-md-4 col-sm-6">
         <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="600ms">
           <div class="img-wrapper">
             <img src="images/portfolio/item-4.jpg" class="img-fluid" alt="">
@@ -150,7 +171,7 @@ Latest Work Section Start
             </p>
           </figcaption>
         </figure>
-      </div>
+      </div> -->
     </div>
   </div>
 </section> <!-- #works -->
