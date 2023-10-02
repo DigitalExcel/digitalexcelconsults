@@ -6,7 +6,7 @@ $from_email = filter_var($from_email, FILTER_SANITIZE_EMAIL);
 //$address = htmlspecialchars($_POST['address']);
 
 $contact = strip_tags($_POST['contact']);
-$to_email = 'klebcourage@gmail.com, digitalexcelconsults@gmail.com';
+$to_email = 'digitalexcelconsults@gmail.com';
 
 $subject = "Digital Excel: ". strip_tags($_POST['subject']);
 $message = htmlspecialchars("Sender's Name: " . $_POST['name'] . "\r\nSenders Email: " . $from_email . "\r\nSenders Contact: " . $contact. "\r\n\r\n" . $_POST['message']);
@@ -15,7 +15,7 @@ $headers = "From: info@digitalexcelconsults.com \r\n";
 $headers .= "Reply-To:".$from_email."\r\n";
 $headers .= "MIME-Version: 1.0 \r\n";
 $headers .= "Content-type: text/plain; charset=utf-8 \r\n";
-$headers .= "Bcc:klebcourage@gmail.com, osgun4christ@gmail.com, emiledennis47@gmail.com, klebcourage@yahoo.com, livingseedliberialabors@gmail.com";
+$headers .= "Bcc:klebcourage@gmail.com, osgun4christ@gmail.com, emiledennis47@gmail.com, klebcourage@yahoo.com";
 echo mail($to_email, $subject, $message, $headers);
 
 
@@ -25,7 +25,7 @@ $headers = "From: donotreply@digtalexcelconsults.com \r\n";
 $headers .= "Reply-To:donotreply@digtalexcelconsults.com\r\n";
 $headers .= "MIME-Version: 1.0 \r\n";
 $headers .= "Content-type: text/plain; charset=utf-8 \r\n";
-$headers .= "Bcc:klebcourage@gmail.com, osgun4christ@gmail.com, emiledennis47@gmail.com, klebcourage@yahoo.com, livingseedliberialabors@gmail.com";
+$headers .= "Bcc:klebcourage@gmail.com, osgun4christ@gmail.com, emiledennis47@gmail.com, klebcourage@yahoo.com";
 
 $message="Dear ".$_POST['name'].",\r\n
 Thank you for reaching out to us and for joining us on today's broadcast, we believe you were blessed.\r\n\r\nYour message is acknowledged.
@@ -62,4 +62,4 @@ Digital Excel Consults
 Email: info@digitalexcelconsults.com
 Website: digitalexcelconsults.com
 ";
-mail($from_email, $subject, $message, $headers);
+echo mail($from_email, $subject, $message, $headers);

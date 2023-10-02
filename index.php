@@ -61,6 +61,7 @@
 ==================================================
 Slider Section Start
 ================================================== -->
+
   <section id="">
     <div class="banner-carousel banner-carousel-2 mb-0">
       <div class="banner-carousel-item" style="background-image:url(images/slider/slider1.jpg)">
@@ -76,6 +77,7 @@ Slider Section Start
                 <a href="about.php" class="slider btn btn-success fadeInUp animated " data-wow-delay=".9s">Our Service</a>
               </p>
             </div>
+
           </div>
         </div>
       </div>
