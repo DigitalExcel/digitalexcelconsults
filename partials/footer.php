@@ -49,16 +49,22 @@
     <script src="plugins/form-validation/jquery.validate.min.js"></script>
 	<!-- slick slider -->
 	<script src="plugins/slick/slick.min.js"></script>
+    <script src="plugins/slick/slick-animation.min.js"></script>
 	<!-- bootstrap js -->
 	<script src="plugins/bootstrap/bootstrap.min.js"></script>
 	<!-- wow js -->
 	<script src="plugins/wow-js/wow.min.js"></script>
 	<!-- slider js -->
 	<script src="plugins/slider/slider.js"></script>
+      <!-- Color box -->
+  <script src="plugins/colorbox/jquery.colorbox.js"></script>
+  <!-- shuffle -->
+  <script src="plugins/shuffle/shuffle.min.js" defer></script>
 	<!-- Fancybox -->
 	<script src="plugins/facncybox/jquery.fancybox.js"></script>
 	<!-- template main js -->
 	<script src="js/main.js"></script>
+    <script src="js/script.js"></script>
 
     <script>
     $(document).ready(function() {

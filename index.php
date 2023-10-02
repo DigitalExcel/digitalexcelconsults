@@ -61,33 +61,73 @@
 ==================================================
 Slider Section Start
 ================================================== -->
-  <section id="hero-area">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-12 text-center">
-          <div class="block wow fadeInUp" data-wow-delay=".3s">
-
-            <!-- Slider -->
-            <section class="cd-intro">
-              <h1 class="wow fadeInUp animated cd-headline slide" data-wow-delay=".4s">
-                <span>HI, MY NAME IS EXCEL CONSULTS &amp; I AM A</span><br>
-                <span class="cd-words-wrapper">
-                  <b class="is-visible">DESIGNER</b>
-                  <b>DEVELOPER</b>
-                  <b>FATHER</b>
-                </span>
-              </h1>
-            </section> <!-- cd-intro -->
-            <!-- /.slider -->
-            <h2 class="wow fadeInUp animated" data-wow-delay=".6s">
-              With 10 years experience, I've occupied many roles including digital design director,<br> web designer and
-              developer. This site showcases some of my work.
-            </h2>
-            <a class="btn-lines dark light wow fadeInUp animated btn btn-default btn-green hvr-bounce-to-right" data-wow-delay=".9s" href="https://themefisher.com/" target="_blank">Download More</a>
+  <section id="">
+    <div class="banner-carousel banner-carousel-2 mb-0">
+      <div class="banner-carousel-item" style="background-image:url(images/slider/slider1.jpg)">
+        <div class="container">
+          <div class="box-slider-content">
+            <div class="box-slider-text">
+              <h2 class="box-slide-title">Transforming & Empowering</h2>
+              <h3 class="box-slide-sub-title">Through Digital Innovation and Training</h3>
+              <p class="box-slide-description">Join Us on our Journey to a Digital Liberia</ol>
+                </ul>
+              </p>
+              <p>
+                <a href="about.php" class="slider btn btn-success fadeInUp animated " data-wow-delay=".9s">Our Service</a>
+              </p>
+            </div>
           </div>
         </div>
       </div>
-    </div>
+
+      <div class="banner-carousel-item" style="background-image:url(images/slider/slider2.jpg)">
+        <div class="slider-content text-left">
+          <div class="container">
+            <div class="box-slider-content">
+              <div class="box-slider-text">
+                <h2 class="box-slide-title">Hands-on Training</h2>
+                <h3 class="box-slide-sub-title">Empowering Liberia through Digital Training</h3>
+                <p class="box-slide-description">Perfection, Passion, People, Professionalism, Proactivity, Partnership
+                  <br>- The Excel Way
+                </p>
+                <p><a href="service.php" class="slider btn btn-success fadeInUp animated" data-wow-delay=".9s" aria-label="about-us">Know Us</a></p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="banner-carousel-item" style="background-image:url(images/slider/slider3.jpg)">
+        <div class="slider-content text-left">
+          <div class="container">
+            <div class="box-slider-content">
+              <div class="box-slider-text">
+                <h2 class="box-slide-title">Indigenous Solution</h2>
+                <h3 class="box-slide-sub-title">Driving Innovation for a Digital Liberia</h3>
+                <p class="box-slide-description">For Increased National Productivity</p>
+                <p><a href="service.php" class="slider btn btn-success fadeInUp animated" data-wow-delay=".9s" aria-label="about-us">Know Us</a></p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="banner-carousel-item" style="background-image:url(images/slider/slider4.jpg)">
+        <div class="slider-content text-left">
+          <div class="container">
+            <div class="box-slider-content">
+              <div class="box-slider-text">
+                <h2 class="box-slide-title">Digital Liberia</h2>
+                <h3 class="box-slide-sub-title">Join Us in Transforming Liberia's Future</h3>
+                <p class="box-slide-description">Equipped Liberians with the skills to embrace technology and contribute
+                  to a prosperous and inclusive future.</p>
+                <p><a href="contact.php" class="slider btn btn-success fadeInUp animated" data-wow-delay=".9s" aria-label="contact-us">Contact us</a></p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>      
+    </div>    
   </section>
   <!--/#main-slider-->
 
@@ -137,7 +177,8 @@ Portfolio Section Start
       <div class="section-heading">
         <h1 class="title wow fadeInDown" data-wow-delay=".3s">Our Services</h1>
         <p class="wow fadeInDown" data-wow-delay=".5s">
-          Here at Excel we firmly believe in empowering individuals, bridging the digital divide, and paving the way for a prosperous and inclusive future for all.
+          Here at Excel we firmly believe in empowering individuals, bridging the digital divide, and paving the way for
+          a prosperous and inclusive future for all.
 
         </p>
       </div>
@@ -164,7 +205,8 @@ Portfolio Section Start
             </div>
             <div class="media-body">
               <h4 class="media-heading">Digital Trainings</h4>
-              <p>We offers comprehensive training programs designed to empower individuals and organizations with the necessary digital literacy and IT skills.</p>
+              <p>We offers comprehensive training programs designed to empower individuals and organizations with the
+                necessary digital literacy and IT skills.</p>
             </div>
           </div>
         </div>
@@ -177,7 +219,8 @@ Portfolio Section Start
             </div>
             <div class="media-body">
               <h4 class="media-heading">Multimedia Services</h4>
-              <p>We offer a range of media services, including graphics design, logo design, branding, and multimedia production.</p>
+              <p>We offer a range of media services, including graphics design, logo design, branding, and multimedia
+                production.</p>
             </div>
           </div>
         </div>
@@ -190,7 +233,8 @@ Portfolio Section Start
             </div>
             <div class="media-body">
               <h4 class="media-heading">Consultancy Services</h4>
-              <p>We provide expert guidance and strategic advice to organizations seeking to leverage technology and media for their business growth.</p>
+              <p>We provide expert guidance and strategic advice to organizations seeking to leverage technology and
+                media for their business growth.</p>
             </div>
           </div>
         </div>
@@ -223,7 +267,8 @@ Portfolio Section Start
       </div> -->
         <div class="col-lg-12">
           <div class="text-center">
-            <a class="btn-lines dark light wow fadeInUp animated btn btn-default btn-green hvr-bounce-to-right" href="service.php" target="_blank">Read More</a>
+            <a class="btn-lines dark light wow fadeInUp animated btn btn-default btn-green hvr-bounce-to-right"
+              href="service.php" target="_blank">Read More</a>
           </div>
         </div>
       </div>
