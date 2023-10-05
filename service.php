@@ -14,10 +14,10 @@
         ================================================== -->
   <meta charset="utf-8">
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <link rel="icon" href="favicon.ico">
-  <title>Timer Agency Template</title>
-  <meta name="description" content="">
-  <meta name="keywords" content="">
+  <link rel="icon" href="images/favicon/favicon.ico">
+  <title>Digital Excel Consults</title>
+  <meta name="description" content="Digital Excel Consults Liberia Website">
+  <meta name="keywords" content="Digital, Training, ICT, IT, Computer, Liberia">
   <meta name="author" content="">
   <!-- Mobile Specific Metas
         ================================================== -->
@@ -92,7 +92,8 @@
         </div>
         <div class="col-lg-12">
           <h2 class="subtitle wow fadeInUp animated" data-wow-delay=".3s" data-wow-duration="500ms">Our Services</h2>
-          <p class="subtitle-des wow fadeInUp animated" data-wow-delay=".5s" data-wow-duration="500ms">Discover a world of possibilities as we
+          <p class="subtitle-des wow fadeInUp animated" data-wow-delay=".5s" data-wow-duration="500ms">Discover a world
+            of possibilities as we
             empower you through a range of tailored digital solutions and training programs.</p>
         </div>
 
@@ -107,7 +108,12 @@
                   <i class="ion-code"></i>
 
                   <h4>DIGITAL SOLUTION DEVELOPMENT</h4>
-                  <p>We specialize in creating cutting-edge digital solutions across web, mobile, and desktop platforms. Our team of experienced software developers and programmers will work closely with clients to understand their unique needs and develop customized solutions that drive efficiency, productivity, and innovation. Whether it's developing interactive websites, mobile applications, enterprise software, or e-commerce platforms, we have the expertise to deliver high-quality digital solutions tailored to your specific requirements.
+                  <p>We specialize in creating cutting-edge digital solutions across web, mobile, and desktop platforms.
+                    Our team of experienced software developers and programmers will work closely with clients to
+                    understand their unique needs and develop customized solutions that drive efficiency, productivity,
+                    and innovation. Whether it's developing interactive websites, mobile applications, enterprise
+                    software, or e-commerce platforms, we have the expertise to deliver high-quality digital solutions
+                    tailored to your specific requirements.
                   </p>
                 </div>
               </div>
@@ -115,21 +121,34 @@
                 <div class="block wow fadeInUp animated" data-wow-duration="400ms" data-wow-delay="800ms">
                   <i class="ion-laptop"></i>
                   <h4>COMPREHENSIVE DIGITAL TRAINING PROGRAMS</h4>
-                  <p>We offer comprehensive training programs designed to empower individuals and organizations with the necessary digital literacy and IT skills. Our training tracks cover Basic Digital Literacy, IT Training, Media, and Graphics Design, providing a holistic approach to digital capacity building. Through practical hands-on training, we equip participants with the knowledge and skills needed to navigate the digital landscape effectively, enhance their employability, and contribute to the overall growth of Liberia's digital society.</p>
+                  <p>We offer comprehensive training programs designed to empower individuals and organizations with the
+                    necessary digital literacy and IT skills. Our training tracks cover Basic Digital Literacy, IT
+                    Training, Media, and Graphics Design, providing a holistic approach to digital capacity building.
+                    Through practical hands-on training, we equip participants with the knowledge and skills needed to
+                    navigate the digital landscape effectively, enhance their employability, and contribute to the
+                    overall growth of Liberia's digital society.</p>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="block wow fadeInUp animated" data-wow-duration="400ms" data-wow-delay="1s">
                   <i class="ion-image"></i>
                   <h4>MEDIA AND GRAPHICS DESIGN SERVICES</h4>
-                  <p>Our team of talented designers and multimedia specialists can help bring your brand to life through captivating visuals. We offer a range of media services, including graphics design, logo design, branding, and multimedia production. Whether you need eye-catching graphics for your website, engaging multimedia content for your social media campaigns, or professional branding materials, we can create visually compelling assets that align with your brand identity and communication goals.</p>
+                  <p>Our team of talented designers and multimedia specialists can help bring your brand to life through
+                    captivating visuals. We offer a range of media services, including graphics design, logo design,
+                    branding, and multimedia production. Whether you need eye-catching graphics for your website,
+                    engaging multimedia content for your social media campaigns, or professional branding materials, we
+                    can create visually compelling assets that align with your brand identity and communication goals.
+                  </p>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="block wow fadeInUp animated" data-wow-duration="400ms" data-wow-delay="1.1s">
                   <i class="ion-ios-lightbulb-outline"></i>
                   <h4>CONSULTANCY SERVICES</h4>
-                  <p>Our consultancy services provide expert guidance and strategic advice to organizations seeking to leverage technology and media for their business growth. Our experienced consultants will assess your current systems, processes, digital infrastructure, and media presence and provide tailored </p>
+                  <p>Our consultancy services provide expert guidance and strategic advice to organizations seeking to
+                    leverage technology and media for their business growth. Our experienced consultants will assess
+                    your current systems, processes, digital infrastructure, and media presence and provide tailored
+                  </p>
                 </div>
               </div>
             </div>

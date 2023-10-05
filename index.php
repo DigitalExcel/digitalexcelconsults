@@ -14,10 +14,10 @@
         ================================================== -->
   <meta charset="utf-8">
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <link rel="icon" href="favicon.ico">
-  <title>Digital Excel Consultants</title>
-  <meta name="description" content="">
-  <meta name="keywords" content="">
+  <link rel="icon" href="images/favicon/favicon.ico">
+  <title>Digital Excel Consults</title>
+  <meta name="description" content="Digital Excel Consults Liberia Website">
+  <meta name="keywords" content="Digital, Training, ICT, IT, Computer, Liberia">
   <meta name="author" content="">
   <!-- Mobile Specific Metas
         ================================================== -->
@@ -74,7 +74,8 @@ Slider Section Start
                 </ul>
               </p>
               <p>
-                <a href="about.php" class="slider btn btn-success fadeInUp animated " data-wow-delay=".9s">Our Service</a>
+                <a href="about.php" class="slider btn btn-success fadeInUp animated " data-wow-delay=".9s">Our
+                  Service</a>
               </p>
             </div>
 
@@ -92,7 +93,8 @@ Slider Section Start
                 <p class="box-slide-description">Perfection, Passion, People, Professionalism, Proactivity, Partnership
                   <br>- The Excel Way
                 </p>
-                <p><a href="service.php" class="slider btn btn-success fadeInUp animated" data-wow-delay=".9s" aria-label="about-us">Know Us</a></p>
+                <p><a href="service.php" class="slider btn btn-success fadeInUp animated" data-wow-delay=".9s"
+                    aria-label="about-us">Know Us</a></p>
               </div>
             </div>
           </div>
@@ -107,7 +109,8 @@ Slider Section Start
                 <h2 class="box-slide-title">Indigenous Solution</h2>
                 <h3 class="box-slide-sub-title">Driving Innovation for a Digital Liberia</h3>
                 <p class="box-slide-description">For Increased National Productivity</p>
-                <p><a href="service.php" class="slider btn btn-success fadeInUp animated" data-wow-delay=".9s" aria-label="about-us">Know Us</a></p>
+                <p><a href="service.php" class="slider btn btn-success fadeInUp animated" data-wow-delay=".9s"
+                    aria-label="about-us">Know Us</a></p>
               </div>
             </div>
           </div>
@@ -123,13 +126,14 @@ Slider Section Start
                 <h3 class="box-slide-sub-title">Join Us in Transforming Liberia's Future</h3>
                 <p class="box-slide-description">Equipped Liberians with the skills to embrace technology and contribute
                   to a prosperous and inclusive future.</p>
-                <p><a href="contact.php" class="slider btn btn-success fadeInUp animated" data-wow-delay=".9s" aria-label="contact-us">Contact us</a></p>
+                <p><a href="contact.php" class="slider btn btn-success fadeInUp animated" data-wow-delay=".9s"
+                    aria-label="contact-us">Contact us</a></p>
               </div>
             </div>
           </div>
         </div>
-      </div>      
-    </div>    
+      </div>
+    </div>
   </section>
   <!--/#main-slider-->
 
