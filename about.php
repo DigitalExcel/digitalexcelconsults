@@ -274,7 +274,7 @@
         <div class="col-md-3 col-sm-6">
           <div class="team-member wow fadeInLeft" data-wow-duration="500ms" data-wow-delay=".7s">
             <div class="team-img">
-              <img src="images/team/sam.png" class="team-pic" alt="" height="250" width="50% !important">
+              <img src="images/team/sam.png" class="team-pic" alt="" height="250">
             </div>
             <h3 class="team_name">Samuel Ogundele</h3>
             <p class="team_designation"></p>
