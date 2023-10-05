@@ -233,7 +233,7 @@
         <div class="col-md-3 col-sm-6">
           <div class="team-member wow fadeInLeft" data-wow-duration="500ms" data-wow-delay=".3s">
             <div class="team-img">
-              <img src="images/team/caleb.png" class="team-pic" alt="" height="200">
+              <img src="images/team/caleb.png" class="team-pic" alt="" height="250">
             </div>
             <h3 class="team_name">Caleb Massalay</h3>
             <p class="team_designation"></p>
@@ -254,7 +254,7 @@
         <div class="col-md-3 col-sm-6">
           <div class="team-member wow fadeInLeft" data-wow-duration="500ms" data-wow-delay=".5s">
             <div class="team-img">
-              <img src="images/team/emilo.jpg" class="team-pic" alt="" height="200">
+              <img src="images/team/emile.jpg" class="team-pic" alt="" height="250">
             </div>
             <h3 class="team_name">Emile Dennis</h3>
             <p class="team_designation"></p>
@@ -274,7 +274,7 @@
         <div class="col-md-3 col-sm-6">
           <div class="team-member wow fadeInLeft" data-wow-duration="500ms" data-wow-delay=".7s">
             <div class="team-img">
-              <img src="images/team/sam.jpg" class="team-pic" alt="" height="200" width="50% !important">
+              <img src="images/team/sam.png" class="team-pic" alt="" height="250" width="50% !important">
             </div>
             <h3 class="team_name">Samuel Ogundele</h3>
             <p class="team_designation"></p>
@@ -295,7 +295,7 @@
         <div class="col-md-3 col-sm-6">
           <div class="team-member wow fadeInLeft" data-wow-duration="500ms" data-wow-delay=".9s">
             <div class="team-img">
-              <img src="images/team/owen.png" class="team-pic" alt="" height="200">
+              <img src="images/team/owen.jpg" class="team-pic" alt="" height="250">
             </div>
             <h3 class="team_name">Owen Blay</h3>
             <p class="team_designation"></p>
