@@ -233,7 +233,7 @@
         <div class="col-md-3 col-sm-6">
           <div class="team-member wow fadeInLeft" data-wow-duration="500ms" data-wow-delay=".3s">
             <div class="team-img">
-              <img src="images/team/caleb.jpg" class="team-pic" alt="" height="200">
+              <img src="images/team/caleb.png" class="team-pic" alt="" height="250">
             </div>
             <h3 class="team_name">Caleb Massalay</h3>
             <p class="team_designation"></p>
@@ -254,7 +254,7 @@
         <div class="col-md-3 col-sm-6">
           <div class="team-member wow fadeInLeft" data-wow-duration="500ms" data-wow-delay=".5s">
             <div class="team-img">
-              <img src="images/team/emile.jpg" class="team-pic" alt="" height="200">
+              <img src="images/team/emile.jpg" class="team-pic" alt="" height="250">
             </div>
             <h3 class="team_name">Emile Dennis</h3>
             <p class="team_designation"></p>
@@ -274,7 +274,7 @@
         <div class="col-md-3 col-sm-6">
           <div class="team-member wow fadeInLeft" data-wow-duration="500ms" data-wow-delay=".7s">
             <div class="team-img">
-              <img src="images/team/sam.jpg" class="team-pic" alt="" height="200">
+              <img src="images/team/sam.png" class="team-pic" alt="" height="250" width="50% !important">
             </div>
             <h3 class="team_name">Samuel Ogundele</h3>
             <p class="team_designation"></p>
@@ -295,7 +295,7 @@
         <div class="col-md-3 col-sm-6">
           <div class="team-member wow fadeInLeft" data-wow-duration="500ms" data-wow-delay=".9s">
             <div class="team-img">
-              <img src="images/team/owen.jpg" class="team-pic" alt="" height="200">
+              <img src="images/team/owen.jpg" class="team-pic" alt="" height="250">
             </div>
             <h3 class="team_name">Owen Blay</h3>
             <p class="team_designation"></p>
@@ -327,14 +327,14 @@
         <div class="col-md-12">
           <h2 class="subtitle text-center wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay=".3s">Our
             Happy Clients</h2>
-          <p class="subtitle-des text-center wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay=".5s">Lorem
+          <p class="subtitle-des text-center wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay=".5s">
             Here are clients we have worked with and we continue to maintain an excellent relationship with:</p>
           <div id="clients-logo" class="clients-logo-slider">
-            <img class="img-fluid mx-2" src="images/clients/logo.png" alt="">
-            <img class="img-fluid mx-2" src="images/clients/bsl.jpg" alt="">
-            <img class="img-fluid mx-2" src="images/clients/gateway.png" alt="">
-            <img class="img-fluid mx-2" src="images/clients/logo-4.jpg" alt="">
-            <img class="img-fluid mx-2" src="images/clients/logo-5.jpg" alt="">
+            <img class="img-fluid mx-2" src="images/clients/logo.png" width="150" height="100" alt="Living Seed Team">
+            <img class="img-fluid mx-2" src="images/clients/bsl.jpg" width="120" height="100"alt="Bible Society Liberia">
+            <img class="img-fluid mx-2" src="images/clients/gateway.png" width="150" height="100"alt="Gateway Medical Clinic">
+            <img class="img-fluid mx-2" src="images/clients/pricelesslogo.png" width="150" height="100"alt="Priceless Real Estate">
+            <img class="img-fluid mx-2" src="images/clients/tamma.png" width="150" height="100"alt="Tamma Corporation">
             <img class="img-fluid mx-2" src="images/clients/logo-1.jpg" alt="">
             <img class="img-fluid mx-2" src="images/clients/logo-2.jpg" alt="">
             <img class="img-fluid mx-2" src="images/clients/logo-3.jpg" alt="">
