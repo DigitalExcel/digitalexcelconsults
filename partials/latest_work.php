@@ -7,9 +7,7 @@ Latest Work Section Start
     <div class="section-heading">
       <h1 class="title wow fadeInDown" data-wow-delay=".3s">Latest Works</h1>
       <p class="wow fadeInDown" data-wow-delay=".5s">
-        Aliquam lobortis. Maecenas vestibulum mollis diam. Pellentesque auctor neque nec urna. Nulla sit amet est.
-        Aenean posuere <br> tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis
-        lacus.
+      Explore Our Newest Creations: Dive into our latest works, <br> where innovation and creativity meet to bring you the freshest projects we've been working on. 
       </p>
     </div>
     <div class="row">

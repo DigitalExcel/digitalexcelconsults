@@ -85,10 +85,9 @@
     <div class="row">
       <div class="col-md-6 mb-5 mb-md-0">
         <div class="block">
-          <h2 class="subtitle wow fadeInDown" data-wow-duration="500ms" data-wow-delay=".3s">Contact With Me</h2>
+          <h2 class="subtitle wow fadeInDown" data-wow-duration="500ms" data-wow-delay=".3s">Contact Us</h2>
           <p class="subtitle-des wow fadeInDown" data-wow-duration="500ms" data-wow-delay=".5s">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore, ea!
-            consectetur adipisicing elit. Dolore, ea!
+          We value your inquiries and aim to respond promptly to all your requests. Feel free to reach out to us using the contact form below, or use the provided contact information to connect with our team directly.
           </p>
           <div class="contact-form">
             <form id="contact-form" method="POST" action="forms/send_mail.php" role="form" class="php-email-form">
@@ -129,8 +128,7 @@
         <div class="map-area">
           <h2 class="subtitle  wow fadeInDown" data-wow-duration="500ms" data-wow-delay=".3s">Find Us</h2>
           <p class="subtitle-des wow fadeInDown" data-wow-duration="500ms" data-wow-delay=".5s">
-            Si aute quis eu proident o cupidatat ne anim nescius, et est praesentibus, o quorum vidisse expetendis,
-            nostrud eram quibusdam ad nam nostrud ubi.
+          We're strategically located to serve our clients efficiently. We look forward to meeting you and working together to address your technology needs.
 
           </p>
           <div class="map">
