@@ -132,7 +132,7 @@
             <h2 class="subtitle  wow fadeInDown" data-wow-duration="500ms" data-wow-delay=".3s">Find Us</h2>
             <p class="subtitle-des wow fadeInDown" data-wow-duration="500ms" data-wow-delay=".5s">
               We're strategically located to serve our clients efficiently. We look forward to meeting you and working
-              together to address your technology needs.
+              together to address your technology needs. We are right here!
 
             </p>
             <div class="map">
