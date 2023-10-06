@@ -5,11 +5,13 @@ deployment:
     - export DEPLOYPATH=/home2/pricell9/public_html/digitalexcelconsults
     - /bin/cp -R .vscode $DEPLOYPATH
     - /bin/cp -R css $DEPLOYPATH
-    - /bin/cp -R img $DEPLOYPATH
-    - /bin/cp -R js $DEPLOYPATH
-    - /bin/cp -R form $DEPLOYPATH
+    - /bin/cp -R forms $DEPLOYPATH
     - /bin/cp -R images $DEPLOYPATH
-    - /bin/cp -R plugins $DEPLOYPATH
+    - /bin/cp -R js $DEPLOYPATH
     - /bin/cp -R partials $DEPLOYPATH
+    - /bin/cp -R plugins $DEPLOYPATH
     
-    /bin/cp index.php $DEPLOYPATH
+    - /bin/cp about.php $DEPLOYPATH
+    - /bin/cp contact.php $DEPLOYPATH
+    - /bin/cp index.php $DEPLOYPATH
+    - /bin/cp service.php $DEPLOYPATH
